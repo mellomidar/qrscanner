@@ -1,0 +1,14 @@
+video, canvas {
+    display: block;
+    width: 640px;
+    height: 480px;
+    margin: 0 auto;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    padding: 10px;
+    background-color: rgb(13, 148, 172);
+}
